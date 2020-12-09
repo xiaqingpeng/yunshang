@@ -7,7 +7,7 @@
   resolved "https://registry.npm.taobao.org/@ant-design/icons-react-native/download/@ant-design/icons-react-native-2.2.1.tgz#0d21226fefa90471129dba864efb6c437627fb37"
   integrity sha1-DSEib++pBHESnbqGTvtsQ3Yn+zc=
 
-"@ant-design/react-native@^4.0.1":
+"@ant-design/react-native@^4.0.5":
   version "4.0.5"
   resolved "https://registry.npm.taobao.org/@ant-design/react-native/download/@ant-design/react-native-4.0.5.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40ant-design%2Freact-native%2Fdownload%2F%40ant-design%2Freact-native-4.0.5.tgz#5be23cb654bcd3a3587a01c53f06f5fcdb433c07"
   integrity sha1-W+I8tlS806NYegHFPwb1/NtDPAc=
@@ -1112,10 +1112,10 @@
     style-value-types "^3.1.7"
     tslib "^1.10.0"
 
-"@react-native-community/async-storage@^1.12.0":
-  version "1.12.0"
-  resolved "https://registry.npm.taobao.org/@react-native-community/async-storage/download/@react-native-community/async-storage-1.12.0.tgz#d2fc65bc08aa1c3e9514bbe9fe7095eab8e8aca3"
-  integrity sha1-0vxlvAiqHD6VFLvp/nCV6rjorKM=
+"@react-native-community/async-storage@^1.12.1":
+  version "1.12.1"
+  resolved "https://registry.npm.taobao.org/@react-native-community/async-storage/download/@react-native-community/async-storage-1.12.1.tgz#25f821b4f6b13abe005ad67e47c6f1cee9f27b24"
+  integrity sha1-JfghtPaxOr4AWtZ+R8bxzunyeyQ=
   dependencies:
     deep-assign "^3.0.0"
 
@@ -1287,10 +1287,10 @@
   resolved "https://registry.npm.taobao.org/@react-native-community/slider/download/@react-native-community/slider-3.0.3.tgz#830167fd757ba70ac638747ba3169b2dbae60330"
   integrity sha1-gwFn/XV7pwrGOHR7oxabLbrmAzA=
 
-"@react-native-community/viewpager@^4.1.0":
-  version "4.1.6"
-  resolved "https://registry.npm.taobao.org/@react-native-community/viewpager/download/@react-native-community/viewpager-4.1.6.tgz#788f401f883929e8ac3698e328caef40b146f36e"
-  integrity sha1-eI9AH4g5KeisNpjjKMrvQLFG824=
+"@react-native-community/viewpager@^4.2.0":
+  version "4.2.0"
+  resolved "https://registry.npm.taobao.org/@react-native-community/viewpager/download/@react-native-community/viewpager-4.2.0.tgz?cache=0&sync_timestamp=1603879684140&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40react-native-community%2Fviewpager%2Fdownload%2F%40react-native-community%2Fviewpager-4.2.0.tgz#11a4453715eb45cb0f732c98666ce168b800dfa4"
+  integrity sha1-EaRFNxXrRcsPcyyYZmzhaLgA36Q=
 
 "@react-navigation/bottom-tabs@^5.6.1":
   version "5.8.0"
@@ -6246,10 +6246,10 @@ react-native-paper@^4.0.1:
     color "^3.1.2"
     react-native-safe-area-view "^0.14.9"
 
-react-native-reanimated@^1.9.0:
-  version "1.13.0"
-  resolved "https://registry.npm.taobao.org/react-native-reanimated/download/react-native-reanimated-1.13.0.tgz#1ee5d27d34bd2cee7dfad4ae9a3673300872c917"
-  integrity sha1-HuXSfTS9LO59+tSumjZzMAhyyRc=
+react-native-reanimated@^1.13.1:
+  version "1.13.1"
+  resolved "https://registry.npm.taobao.org/react-native-reanimated/download/react-native-reanimated-1.13.1.tgz#c370c32cc4d447ae896cb029bb9c6a2f7608c5b4"
+  integrity sha1-w3DDLMTUR66JbLApu5xqL3YIxbQ=
   dependencies:
     fbjs "^1.0.0"
 
@@ -6321,10 +6321,10 @@ react-native-vector-icons@^7.0.0:
     prop-types "^15.7.2"
     yargs "^15.0.2"
 
-react-native-webview@^10.4.0:
-  version "10.9.0"
-  resolved "https://registry.npm.taobao.org/react-native-webview/download/react-native-webview-10.9.0.tgz#a45998f82ab1bbbbfde22b8b155394772610157a"
-  integrity sha1-pFmY+Cqxu7v94iuLFVOUdyYQFXo=
+react-native-webview@^10.10.2:
+  version "10.10.2"
+  resolved "https://registry.npm.taobao.org/react-native-webview/download/react-native-webview-10.10.2.tgz#13208aef17c9ccfd28355363688f4cbe2143f10a"
+  integrity sha1-EyCK7xfJzP0oNVNjaI9MviFD8Qo=
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
